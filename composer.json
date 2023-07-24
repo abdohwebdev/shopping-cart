@@ -1,0 +1,17 @@
+{
+    "name": "abdurrahman/shopping-cart",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ShoppingCart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdohwebdev",
+            "email": "super12226@gmail.com"
+        }
+    ],
+    "require": {}
+}
